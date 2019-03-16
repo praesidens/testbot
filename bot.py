@@ -32,7 +32,7 @@ class BotHandler:
         return last_update
 
 
-token = "526859696:AAFCofjW2LGDEyIoFmsi2MMAD0qrS8MBSx8"
+token = "hidden"
 
 greet_bot = BotHandler(token)
 greetings = ('hello', 'hi', 'greetings', 'sup')
